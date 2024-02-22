@@ -1,1 +1,2 @@
 # Hand-Digit-Recognition
+Developed a Convolutional Neural Network (CNN) model achieving 98% accuracy for MNIST dataset digit recognition. Utilized deep learning techniques to reduce human effort in handwritten digit interpretation. Addressed challenges like data variance and image tilt through CNN architecture optimization and data augmentation. Pioneered potential applications in character recognition and real-time handwriting analysis.
